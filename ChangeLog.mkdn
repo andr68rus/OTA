@@ -1,6 +1,5 @@
-# The Changelog  RR-M-5.7.4 for LeMax2, maintained by @andr68rus
-
-# ResurrectionRemix-M-v5.7.4-20170219-x2.zip - 2017/02/29
+# The Changelog  RR-M-5.7.4 for LeMax2
+# ResurrectionRemix-M-v5.7.4-20170219-x2.zip - 2017/02/19
 
 - Now we are OFFICIAL
 - Competly moved to LOS device tree sources
@@ -10,3 +9,42 @@
 - Snap from LOS repo with autoresoluton fix
 - Speakerphone fix
 - Device name fix for PlayMarket
+
+# ResurrectionRemix-M-v5.7.4-20170217-x2.zip - 2017/02/17
+
+- Patch Level 12012016
+
+# ResurrectionRemix-M-v5.7.4-20170214-x2.zip - 2017/02/14
+
+- Fix some errors, FW now stable. 
+
+# ResurrectionRemix-M-v5.7.4-20170211-x2.zip - 2017/02/11
+
+- Wifi 802.11n channel bonding fix.
+- Return back individual sim on/off switch.
+
+# ResurrectionRemix-M-v5.7.4-20170210-x2.zip - 2017/02/10
+
+- Fix some errors from previos build (LED, hardware keys).
+- Try to fix 2G.
+
+# ResurrectionRemix-M-v5.7.4-20170202-x2.zip - 2017/02/02
+
+- 4K Video in Snap
+- Voice quality (Need test, also if you will install divinebeats, install patched version!), also some other sound fix, please report about problems.
+- Some changes in Ambient display, now it fully work (You need to enable it in Settings - Ambient Diplay (not in DIsplay!)
+- Removed D2TW from settings
+- Force enabled camera1api: whatapp and other app work nice. 
+- Added LeecoCamera App from S22 test only (to run it you need enter settings -> app -> permission and enable permission, it will not ask for it by default). Panoramic dont work.
+
+# ResurrectionRemix-M-v5.7.4-20170130-x2.zip - 2017/01/30
+
+- Camera2Api work, set by default
+- RIL still have problem with "Only 2G mode"
+
+# ResurrectionRemix-M-v5.7.4-20170126-x2.zip - 2017/01/26
+
+- accelerometer fixed
+- Snap Camera can now 21 mp
+- LED Notification fixed
+- Remote Control included.
