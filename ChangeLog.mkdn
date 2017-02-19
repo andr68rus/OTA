@@ -1,0 +1,12 @@
+# The Changelog  RR-M-5.7.4 for LeMax2, maintained by @andr68rus
+
+# ResurrectionRemix-M-v5.7.4-20170219-x2.zip - 2017/02/29
+
+- Now we are OFFICIAL
+- Competly moved to LOS device tree sources
+- Added OTA (Configuration -> Update)
+- Removed LeTVRemoteControl, LeTVCamera (can be installed from ZIP)
+- Fixed wifi 2.4GHz+BT issue
+- Snap from LOS repo with autoresoluton fix
+- Speakerphone fix
+- Device name fix for PlayMarket
