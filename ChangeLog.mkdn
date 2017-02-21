@@ -1,4 +1,12 @@
 # The Changelog  RR-M-5.7.4 for LeMax2
+
+# ResurrectionRemix-M-v5.7.4-20170220-x2.zip - 2017/02/21
+
+- Fix wifi tethering
+- Some changes for viperfx work (change fluencetype to none, add sample rate in audiopolicy)
+- Shorten default BT name "LeEco Le Max 2" -> "Le Max 2"
+- Changes in advanced settings translation (ru, es, cn)
+
 # ResurrectionRemix-M-v5.7.4-20170219-x2.zip - 2017/02/19
 
 - Now we are OFFICIAL
