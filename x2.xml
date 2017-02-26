@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
 	 <x2>
-            <Filename>ResurrectionRemix-M-v5.7.4-20170220-x2.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.4-20170226-x2.zip</Filename>
             <BuildUrl
             	id="build"
             	title="LatestBuild"
-            	description="Download Latest Build">http://rrota.nixadm.ru/files/ResurrectionRemix-M-v5.7.4-20170220-x2.zip</BuildUrl>
+            	description="Download Latest Build">http://rrota.nixadm.ru/files/ResurrectionRemix-M-v5.7.4-20170226-x2.zip</BuildUrl>
             <RomUrl
                 id="rom"
                 title="Rom"

@@ -1,5 +1,14 @@
 # The Changelog  RR-M-5.7.4 for LeMax2
 
+# ResurrectionRemix-M-v5.7.4-20170226-x2.zip - 2017/02/26
+
+- Security patch level updated to 01/01/2017
+- Added hardware buttons disable/enable switch
+- Added Hardware buttons light brightness + mode settings
+- Added leeco quick charge settings (Settings-> Configuration -> Battery). 
+- Changed live display default day color temperature from 8000 to 6500
+- Full Simple Chines translation (thanks @atzsmm)
+
 # ResurrectionRemix-M-v5.7.4-20170220-x2.zip - 2017/02/21
 
 - Fix wifi tethering
