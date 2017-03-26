@@ -1,5 +1,15 @@
 # The Changelog  RR-M-5.7.4 for LeMax2
 
+# ResurrectionRemix-M-v5.7.4-20170325-x2.zip - 2017/03/25
+
+- Mokee Kernel
+- Small fixes
+
+# ResurrectionRemix-M-v5.7.4-20170307-x2.zip - 2017/03/07
+
+- Battery optimisation
+- Small fixes
+
 # ResurrectionRemix-M-v5.7.4-20170226-x2.zip - 2017/02/26
 
 - Security patch level updated to 01/01/2017

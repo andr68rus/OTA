@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
 	 <x2>
-            <Filename>ResurrectionRemix-M-v5.7.4-20170226-x2.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.4-20170325-x2.zip</Filename>
             <BuildUrl
             	id="build"
             	title="LatestBuild"
-            	description="Download Latest Build">http://rrota.nixadm.ru/files/ResurrectionRemix-M-v5.7.4-20170226-x2.zip</BuildUrl>
+            	description="Download Latest Build">http://rrota.nixadm.ru/files/ResurrectionRemix-M-v5.7.4-20170325-x2.zip</BuildUrl>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -15,14 +15,6 @@
                 id="changelog"
                 title="Changelog"
                 description="View Changelog">https://github.com/andr68rus/OTA/blob/master/ChangeLog.mkdn</ChangelogUrl>
-            <Camera2APIUrl
-                id="cam2_api"
-                title="Camera2API/Camera1API Patches"
-                description="Download Camera2API/Camera1API Patches">http://rrota.nixadm.ru/files/twrp/cam2api/</Camera2APIUrl>
-            <LeTVRemoteUrl
-                id="remote_control"
-                title="LeTVRemoteControl"
-                description="Download LeTVRemoteControl">http://rrota.nixadm.ru/files/twrp/letvremote.zip</LeTVRemoteUrl>
             <DBUrl
                 id="divine_beats9"
                 title="DivineBeats9.0patched"
@@ -31,10 +23,5 @@
                 id="modem"
                 title="MODEM_419D-V.00050"
                 description="Download latest Modem">http://rrota.nixadm.ru/files/twrp/MODEM_419D_V.00050.zip</ModemUrl>
-            <LeTVCameraUrl
-                id="letv_camera"
-                title="LeTVCamera"
-                description="Download LeTVCamera APP">http://rrota.nixadm.ru/files/twrp/letvcamera.zip</LeTVCameraUrl>
-	</x2>
     </Stable>
 </SlimOTA>
