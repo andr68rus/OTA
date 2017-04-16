@@ -1,5 +1,9 @@
 # The Changelog  RR-M-5.7.4 for LeMax2
 
+# ResurrectionRemix-M-v5.7.4-20170416-x2.zip - 2017/04/16
+
+- Mokee Kernel with QC 3.0 Support
+
 # ResurrectionRemix-M-v5.7.4-20170329-x2.zip - 2017/03/29
 
 - Fix camera video saving issue
