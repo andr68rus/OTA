@@ -23,5 +23,6 @@
                 id="modem"
                 title="MODEM_419D-V.00050"
                 description="Download latest Modem">http://rrota.nixadm.ru/files/twrp/MODEM_419D_V.00050.zip</ModemUrl>
+	 </x2>
     </Stable>
 </SlimOTA>
