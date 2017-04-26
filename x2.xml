@@ -2,19 +2,19 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
 	 <x2>
-            <Filename>ResurrectionRemix-M-v5.7.4-20170416-x2.zip</Filename>
+            <Filename>RR-N-v5.8.3-20170426-x2-Official.zip</Filename>
             <BuildUrl
             	id="build"
             	title="LatestBuild"
-            	description="Download Latest Build">http://rrota.nixadm.ru/files/ResurrectionRemix-M-v5.7.4-20170416-x2.zip</BuildUrl>
+            	description="Download Latest Build">http://rrota.nixadm.ru/nougat/files/RR-N-v5.8.3-20170426-x2-Official.zip</BuildUrl>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">http://rrota.nixadm.ru/files/</RomUrl>
+                description="Download ResurrectionRemix builds">http://rrota.nixadm.ru/nougat/files/</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/andr68rus/OTA/blob/master/ChangeLog.mkdn</ChangelogUrl>
+                description="View Changelog">https://github.com/andr68rus/OTA/blob/rr-n/ChangeLog.mkdn</ChangelogUrl>
             <DBUrl
                 id="divine_beats9"
                 title="DivineBeats9.0patched"
