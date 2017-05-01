@@ -1,5 +1,9 @@
 # The Changelog  RR-N-5.8.3 for LeMax2
 
+# RR-N-v5.8.3-20170430-x2-Official.zip - 2017/05/01
+
+- Fix mic volume
+
 # RR-N-v5.8.3-20170426-x2-Official.zip - 2017/04/26
 
 - Update kernel, fixed performance issue, switch some features
