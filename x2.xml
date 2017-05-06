@@ -2,23 +2,19 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
 	 <x2>
-            <Filename>RR-N-v5.8.3-20170430-x2-Official.zip</Filename>
+            <Filename>RR-N-v5.8.3-20170506-x2-Official.zip</Filename>
             <BuildUrl
             	id="build"
             	title="LatestBuild"
-            	description="Download Latest Build">http://rrota.nixadm.ru/nougat/files/RR-N-v5.8.3-20170430-x2-Official.zip</BuildUrl>
+            	description="Download Latest Build">https://drive.google.com/open?id=0B-2l1xmYBAzsSWt0R29sV2pEZ3M</BuildUrl>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">http://rrota.nixadm.ru/nougat/files/</RomUrl>
+                description="Download ResurrectionRemix builds">https://drive.google.com/open?id=0B-2l1xmYBAzsMFNjd0w5X0RmUnM</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
                 description="View Changelog">https://github.com/andr68rus/OTA/blob/rr-n/ChangeLog.mkdn</ChangelogUrl>
-            <DBUrl
-                id="divine_beats9"
-                title="DivineBeats9.0patched"
-                description="Download patched divinebeats 9.0 (viperfx+DolbyAtmos)">http://rrota.nixadm.ru/files/twrp/DiVINEBeats_v9.0_Guano_EN.zip</DBUrl>
             <ModemUrl
                 id="modem"
                 title="MODEM_419D-V.00050"

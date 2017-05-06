@@ -1,5 +1,14 @@
 # The Changelog  RR-N-5.8.3 for LeMax2
 
+# RR-N-v5.8.3-20170506-x2-Official.zip - 2017/05/06
+
+- Last ViperFX & Dolby Atmos minimal package (with no garbage) included and work with all sounds, e.g. ringtones
+- ViperFX & DA does not cause crash of Gallery and some other app now, also it must work correct with BT
+- Pico gapps included
+- Build use old (i will name it "STABLE") lineageOS kernel for now. But who want new, can flash it manualy.
+- Also included LeTVRemoteControl, LeTVCamera (letvcamera dont work now)
+- WIth stable kernel work: IR, Ambient Display
+
 # RR-N-v5.8.3-20170430-x2-Official.zip - 2017/05/01
 
 - Fix mic volume
