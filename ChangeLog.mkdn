@@ -1,5 +1,12 @@
 # The Changelog  RR-N-5.8.3 for LeMax2
 
+# RR-N-v5.8.3-20170508-x2-Official.zip - 2017/05/08
+
+- New LOS kernel with fixed ambient display and letvremote
+- Gapps removed from build
+- Dolby Atmos changed to stock leeco Dolby Atmos (fixed and working now)
+- LeTVCamera removed (it will not work on 7).
+
 # RR-N-v5.8.3-20170506-x2-Official.zip - 2017/05/06
 
 - Last ViperFX & Dolby Atmos minimal package (with no garbage) included and work with all sounds, e.g. ringtones
