@@ -1,5 +1,12 @@
 # The Changelog  RR-N-5.8.3 for LeMax2
 
+# RR-N-v5.8.3-20170523-x2-Official.zip - 2017/05/24
+
+- Add VoLTE support
+- Update audio configs, fix some audio issues
+- Update powersaving system, doze profiles
+- BlackScreen 2.1 Kernel
+
 # RR-N-v5.8.3-20170508-x2-Official.zip - 2017/05/08
 
 - New LOS kernel with fixed ambient display and letvremote

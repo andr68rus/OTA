@@ -2,15 +2,15 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
 	 <x2>
-            <Filename>RR-N-v5.8.3-20170508-x2-Official.zip</Filename>
+            <Filename>RR-N-v5.8.3-20170523-x2-Official.zip</Filename>
             <BuildUrl
             	id="build"
             	title="LatestBuild"
-            	description="Download Latest Build">https://drive.google.com/open?id=0B-2l1xmYBAzseDBkZ01KUXdidzA</BuildUrl>
+            	description="Download Latest Build">https://sourceforge.net/projects/resurrectionremix/files/x2/RR-N-v5.8.3-20170523-x2-Official.zip/download</BuildUrl>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://drive.google.com/open?id=0B-2l1xmYBAzsMFNjd0w5X0RmUnM</RomUrl>
+                description="Download ResurrectionRemix builds from Google Drive">https://drive.google.com/open?id=0B-2l1xmYBAzsMFNjd0w5X0RmUnM</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
