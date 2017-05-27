@@ -1,5 +1,11 @@
 # The Changelog  RR-N-5.8.3 for LeMax2
 
+# RR-N-v5.8.3-20170527-x2-Official.zip - 2017/05/27
+
+- Update audio configs, fix some audio issues
+- Other fixes
+- Powersaving doze system & profiles removed from official builds
+
 # RR-N-v5.8.3-20170523-x2-Official.zip - 2017/05/24
 
 - Add VoLTE support
