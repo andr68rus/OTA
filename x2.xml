@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
-	 <x2>
+        <x2>
             <Filename>RR-N-v5.8.3-20170527-x2-Official.zip</Filename>
             <BuildUrl
-            	id="build"
-            	title="LatestBuild"
-            	description="Download Latest Build">https://sourceforge.net/projects/resurrectionremix/files/x2/RR-N-v5.8.3-20170527-x2-Official.zip/download</BuildUrl>
+                id="build"
+                title="LatestBuild"
+                description="Download Latest Build">https://sourceforge.net/projects/resurrectionremix/files/x2/RR-N-v5.8.3-20170527-x2-Official.zip/download</BuildUrl>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -19,6 +19,6 @@
                 id="modem"
                 title="MODEM_419D-V.00050"
                 description="Download latest Modem">http://rrota.nixadm.ru/files/twrp/MODEM_419D_V.00050.zip</ModemUrl>
-	 </x2>
+        </x2>
     </Stable>
 </SlimOTA>
