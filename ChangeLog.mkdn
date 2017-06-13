@@ -1,5 +1,13 @@
 # The Changelog  RR-N-5.8.3 for LeMax2
 
+# RR-N-v5.8.3-20170613-x2-Official.zip - 2017/06/13
+
+- Updated Adreno & Vulkan blobs (thnks @infrag) 
+- Kernel: BS2.3 (thnks @mosimchah & @infrag)
+- Ramdisk now compatible with LOS, you may install other kernels without changes. 
+- Last RR sources
+- Many other small fixes (can be found on github)
+
 # RR-N-v5.8.3-20170527-x2-Official.zip - 2017/05/27
 
 - Update audio configs, fix some audio issues
