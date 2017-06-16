@@ -14,7 +14,7 @@
     <!-- HTTP link will open a web page -->
     <!-- Direct Link overrides HTTP link -->
   <DirectUrl nil="true" />
-  <HttpUrl>https://drive.google.com/open?id=0B-2l1xmYBAzseW81VlNCM0hBRlE</HttpUrl>
+  <HttpUrl><![CDATA[https://drive.google.com/open?id=0B-2l1xmYBAzseW81VlNCM0hBRlE]]></HttpUrl>
   <!-- What version are you issuing? -->
   <Android>7.1.2</Android>
   <!-- Providing File Checking for direct downloads. You SHOULD offer this for your users whether using HTTP or Direct -->
@@ -31,7 +31,7 @@
   <WebsiteURL>https://forum.xda-developers.com/le-max-2/development/x82x-dirty-unicorns-7-1-2-t3593864</WebsiteURL>
   <!-- Your Donate URL -->
   <!-- OPTIONAL: Enter <DonateURL nil="true" /> to hide this -->
-  <DonateURL>https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=Aemo3KxmR9OokGM3P9GTjmyyJnQTM-spO0eog7Ui4uvResLBitdBAya-CPm&dispatch=5885d80a13c0db1f8e263663d3faee8d83a0bf7db316a7beb1b14b43acd04037&rapidsState=Donation__DonationFlow___StateDonationStart&rapidsStateSignature=6a6fea06354d599f3bef1c8b3df3f3315045b829</DonateURL>
+  <DonateURL><![CDATA[https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=Aemo3KxmR9OokGM3P9GTjmyyJnQTM-spO0eog7Ui4uvResLBitdBAya-CPm&dispatch=5885d80a13c0db1f8e263663d3faee8d83a0bf7db316a7beb1b14b43acd04037&rapidsState=Donation__DonationFlow___StateDonationStart&rapidsStateSignature=6a6fea06354d599f3bef1c8b3df3f3315045b829]]></DonateURL>
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
   <Changelog>### Changelog 20170101
