@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <!-- Your ROM Name -->
-  <RomName>Dirty Unicorns Nougat AOSP/CAF</RomName>
+  <RomName>DU-N-X2_ANDR</RomName>
   <VersionName>20171010</VersionName>
   <!-- Your ROM version. MUST be incrementally larger than previous versions -->
   <!-- Do NOT use letters in your version number. Integers only -->
@@ -31,7 +31,7 @@
   <WebsiteURL>https://forum.xda-developers.com/le-max-2/development/x82x-dirty-unicorns-7-1-2-t3593864</WebsiteURL>
   <!-- Your Donate URL -->
   <!-- OPTIONAL: Enter <DonateURL nil="true" /> to hide this -->
-  <DonateURL><![CDATA[https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=Aemo3KxmR9OokGM3P9GTjmyyJnQTM-spO0eog7Ui4uvResLBitdBAya-CPm&dispatch=5885d80a13c0db1f8e263663d3faee8d83a0bf7db316a7beb1b14b43acd04037&rapidsState=Donation__DonationFlow___StateDonationStart&rapidsStateSignature=6a6fea06354d599f3bef1c8b3df3f3315045b829]]></DonateURL>
+  <DonateURL nil="true" />
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
   <Changelog>### Changelog 20170101
