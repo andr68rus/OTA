@@ -1,5 +1,15 @@
 # The Changelog  RR-N-5.8.3 for LeMax2
 
+# RR-N-v5.8.3-20170628-x2-Official.zip - 2017/06/28
+
+- Kernel BS 2.4.5
+- sdcardfs enabled by default. Read note on XDA to work with Multirom as secondary ROM
+- Fix some security issues in IPACM
+- GPS Tweek
+- Some changes and fix in Ramdisk, make it more compatible with BS kernel
+- Fix charger
+- Last RR sources
+
 # RR-N-v5.8.3-20170613-x2-Official.zip - 2017/06/13
 
 - Updated Adreno & Vulkan blobs (thnks @infrag) 
