@@ -1,5 +1,11 @@
 # The Changelog  RR-N-5.8.3 for LeMax2
 
+# RR-N-v5.8.3-20170707-x2-Official.zip - 2017/07/07
+
+- My device tree
+- Ramdisk fixup by mosimchah & infrag
+- Kernel BS 2.6
+
 # RR-N-v5.8.3-20170706-x2-Official.zip - 2017/07/06
 
 - Kernel BS 2.6
