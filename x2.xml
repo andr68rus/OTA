@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <x2>
-            <Filename>RR-N-v5.8.3-20170707-x2-Official.zip</Filename>
+            <Filename>RR-N-v5.8.3-20170713-x2-Official.zip</Filename>
             <BuildUrl
                 id="build"
                 title="LatestBuild"
-                description="Download Latest Build">https://sourceforge.net/projects/resurrectionremix/files/x2/RR-N-v5.8.3-20170707-x2-Official.zip/download</BuildUrl>
+                description="Download Latest Build">https://sourceforge.net/projects/resurrectionremix/files/x2/RR-N-v5.8.3-20170713-x2-Official.zip/download</BuildUrl>
             <RomUrl
                 id="rom"
                 title="Rom"

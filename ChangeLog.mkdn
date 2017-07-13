@@ -1,5 +1,13 @@
 # The Changelog  RR-N-5.8.3 for LeMax2
 
+# RR-N-v5.8.3-20170713-x2-Official.zip - 2017/07/13
+
+- Darkobas kernel by default
+- Ramdisk & reboot fix
+- More powersave & stable
+- Magisk 13
+- SnapdragonCamera
+
 # RR-N-v5.8.3-20170707-x2-Official.zip - 2017/07/07
 
 - My device tree
