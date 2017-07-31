@@ -1,5 +1,9 @@
 # The Changelog  RR-N-5.8.3 for LeMax2
 
+# RR-N-v5.8.3-20170731-x2-Official.zip - 2017/07/31
+
+- ROM/Kernel update
+
 # RR-N-v5.8.3-20170713-x2-Official.zip - 2017/07/13
 
 - Darkobas kernel by default
