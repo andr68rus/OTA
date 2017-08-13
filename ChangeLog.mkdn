@@ -1,4 +1,11 @@
-# The Changelog  RR-N-5.8.3 for LeMax2
+# The Changelog  RR-N-5.8.X for LeMax2
+
+# RR-N-v5.8.4-20170813-x2-Official.zip - 2017/08/13
+
+- ROM update to 5.8.4
+- Kernel Black Screen 3.1.1
+- Ramdisk update
+- Some minor fixes
 
 # RR-N-v5.8.3-20170731-x2-Official.zip - 2017/07/31
 
