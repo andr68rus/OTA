@@ -14,7 +14,7 @@
     <!-- HTTP link will open a web page -->
     <!-- Direct Link overrides HTTP link -->
   <DirectUrl nil="true" />
-  <HttpUrl><![CDATA[https://drive.google.com/open?id=0B-2l1xmYBAzsRU1MWW5IS2pQLTA]]></HttpUrl>
+  <HttpUrl><![CDATA[https://drive.google.com/open?id=0B-2l1xmYBAzsMENvQnYzTGJPQUE]]></HttpUrl>
   <!-- What version are you issuing? -->
   <Android>7.1.2</Android>
   <!-- Providing File Checking for direct downloads. You SHOULD offer this for your users whether using HTTP or Direct -->
