@@ -2,11 +2,11 @@
 <ROM>
   <!-- Your ROM Name -->
   <RomName>DU-N-X2_ANDR</RomName>
-  <VersionName>20170817</VersionName>
+  <VersionName>20170826</VersionName>
   <!-- Your ROM version. MUST be incrementally larger than previous versions -->
   <!-- Do NOT use letters in your version number. Integers only -->
   <!-- Previous version will be read from the build.prop -->
-  <VersionNumber type="integer">20170817</VersionNumber>
+  <VersionNumber type="integer">20170826</VersionNumber>
   <!-- Linking to your files -->
     <!-- <DirectUrl><![CDATA[http://www.example.com?file=file.zip?somethingelse&anotherthing]]></DirectUrl> -->
     <!-- Use the above format if your URL has special characters in then, like an (&) ampersand -->
@@ -38,5 +38,8 @@
 * audio driver from stock (fix sound in voip application)
 * sec_config update
 * kernel update
+
+### Changelog 20170826
+* ROM update to 11.7 version
   </Changelog>
 </ROM>
