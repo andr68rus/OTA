@@ -1,5 +1,17 @@
 # The Changelog  RR-N-5.8.X for LeMax2
 
+# RR-N-v5.8.4-20170918-x2-Official.zip - 2017/09/18
+
+- ROM: Security Patch 05 Sep
+- Device: fix low volume in cam recording
+- Device: enable sdcardfs
+- Kernel: BS3.5-RRPS
+- Kernel: Autofocus fix
+- Kernel: Optimized battery life
+- Kernel: fix blueborne
+- Kernel: fix sdcardfs driver for correct work with Multirom
+
+
 # RR-N-v5.8.4-20170813-x2-Official.zip - 2017/08/13
 
 - ROM update to 5.8.4
