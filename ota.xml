@@ -2,11 +2,11 @@
 <ROM>
   <!-- Your ROM Name -->
   <RomName>DU-N-X2_ANDR</RomName>
-  <VersionName>20170929</VersionName>
+  <VersionName>20171001</VersionName>
   <!-- Your ROM version. MUST be incrementally larger than previous versions -->
   <!-- Do NOT use letters in your version number. Integers only -->
   <!-- Previous version will be read from the build.prop -->
-  <VersionNumber type="integer">20170929</VersionNumber>
+  <VersionNumber type="integer">20171001</VersionNumber>
   <!-- Linking to your files -->
     <!-- <DirectUrl><![CDATA[http://www.example.com?file=file.zip?somethingelse&anotherthing]]></DirectUrl> -->
     <!-- Use the above format if your URL has special characters in then, like an (&) ampersand -->
@@ -14,7 +14,7 @@
     <!-- HTTP link will open a web page -->
     <!-- Direct Link overrides HTTP link -->
   <DirectUrl nil="true" />
-  <HttpUrl><![CDATA[https://drive.google.com/file/d/0B-2l1xmYBAzsbkpDRU90UlJmNVU/view]]></HttpUrl>
+  <HttpUrl><![CDATA[https://drive.google.com/file/d/0B-2l1xmYBAzsdTRNTno5dUE4T2c/view]]></HttpUrl>
   <!-- What version are you issuing? -->
   <Android>7.1.2</Android>
   <!-- Providing File Checking for direct downloads. You SHOULD offer this for your users whether using HTTP or Direct -->
@@ -22,7 +22,7 @@
   <CheckMD5 nil="true" />
   <!-- The filesize of your ROM -->
   <!-- Please enter this in BYTES only. Otherwise an incorrect value will be shown -->
-  <FileSize type="integer">491268410</FileSize>
+  <FileSize type="integer">546306052</FileSize>
   <!-- Developer or Team name. You can put anything here, even a couple of names -->
   <!-- OPTIONAL: Enter <Developer nil="true" /> to hide this -->
   <Developer>andr68rus</Developer>
@@ -57,5 +57,13 @@
 * Some power tweek
 * Kernel BS-3.5.i-RR-PS
 * Miscellaneous audio fixes and tuning
+
+### Changelog 20171001
+* Fix VoLTE issue from prev. build
+* Fix autobrightnes values
+* Fix audio
+* Dex preopted
+* ViperFX was removed from build
+* Omni SnapdragonCamera was replaced to default
   </Changelog>
 </ROM>
