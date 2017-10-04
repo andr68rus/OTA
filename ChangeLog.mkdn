@@ -1,5 +1,19 @@
 # The Changelog  RR-N-5.8.X for LeMax2
 
+# RR-N-v5.8.4-20171004-x2-Final.zip - 2017/10/04
+
+- Using new vendor tree fully remaked from beginning (from 23S and OB20)
+- Switched to new radio stack
+- Fix sdcardfs for multirom (it will work without patches in secondary rom with sdcardfs)
+- Fix autobrightnes values
+- Fix low level sound record
+- Dex preopted
+- ViperFX, SnapdragonCamera, AKT Profiles was removed from build
+- Security patch 05 Oct
+- Autofocus fix (thanks infrag)
+- Some power tweek
+- Kernel BS-3.5.i-RR-PS
+
 # RR-N-v5.8.4-20170918-x2-Official.zip - 2017/09/18
 
 - ROM: Security Patch 05 Sep
