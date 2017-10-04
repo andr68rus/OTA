@@ -2,11 +2,11 @@
 <ROM>
   <!-- Your ROM Name -->
   <RomName>DU-N-X2_ANDR</RomName>
-  <VersionName>20171005</VersionName>
+  <VersionName>20171004</VersionName>
   <!-- Your ROM version. MUST be incrementally larger than previous versions -->
   <!-- Do NOT use letters in your version number. Integers only -->
   <!-- Previous version will be read from the build.prop -->
-  <VersionNumber type="integer">20171005</VersionNumber>
+  <VersionNumber type="integer">20171004</VersionNumber>
   <!-- Linking to your files -->
     <!-- <DirectUrl><![CDATA[http://www.example.com?file=file.zip?somethingelse&anotherthing]]></DirectUrl> -->
     <!-- Use the above format if your URL has special characters in then, like an (&) ampersand -->
@@ -66,7 +66,7 @@
 * ViperFX was removed from build
 * Omni SnapdragonCamera was replaced to default
 
-### Changelog 20171005
+### Changelog 20171004
 * VoLTE fix [?] need test (thanks moto999999)
 * Loud notification fix
 * Security patch 05 Oct
