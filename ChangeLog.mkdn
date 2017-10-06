@@ -1,6 +1,15 @@
 # The Changelog  RR-N-5.8.X for LeMax2
 
-# RR-N-v5.8.4-20171004-x2-Final.zip - 2017/10/04
+
+# RR-N-v5.8.4-20171006-x2-Final.zip - 2017/10/06
+- Blobs downgraded from 23S to 19S, its more stable, camera has no "white dots".
+- Slowmotion fix
+- Removed unneeded shim for ims, it cause camera "clicks"
+- VoLTE must work now
+- Autobrightnes tweek
+- Improved battery
+
+# RR-N-v5.8.4-20171004-x2-Official.zip - 2017/10/04
 
 - Using new vendor tree fully remaked from beginning (from 23S and OB20)
 - Switched to new radio stack
