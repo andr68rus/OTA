@@ -2,11 +2,11 @@
 <ROM>
   <!-- Your ROM Name -->
   <RomName>DU-N-X2_ANDR</RomName>
-  <VersionName>20171004</VersionName>
+  <VersionName>20171006</VersionName>
   <!-- Your ROM version. MUST be incrementally larger than previous versions -->
   <!-- Do NOT use letters in your version number. Integers only -->
   <!-- Previous version will be read from the build.prop -->
-  <VersionNumber type="integer">20171004</VersionNumber>
+  <VersionNumber type="integer">20171006</VersionNumber>
   <!-- Linking to your files -->
     <!-- <DirectUrl><![CDATA[http://www.example.com?file=file.zip?somethingelse&anotherthing]]></DirectUrl> -->
     <!-- Use the above format if your URL has special characters in then, like an (&) ampersand -->
@@ -14,7 +14,7 @@
     <!-- HTTP link will open a web page -->
     <!-- Direct Link overrides HTTP link -->
   <DirectUrl nil="true" />
-  <HttpUrl><![CDATA[https://drive.google.com/file/d/0B-2l1xmYBAzsWXNiOWJWQmdyQzg/view]]></HttpUrl>
+  <HttpUrl><![CDATA[https://drive.google.com/file/d/0B-2l1xmYBAzsOU5WRGEtWmZTSU0/view]]></HttpUrl>
   <!-- What version are you issuing? -->
   <Android>7.1.2</Android>
   <!-- Providing File Checking for direct downloads. You SHOULD offer this for your users whether using HTTP or Direct -->
@@ -22,7 +22,7 @@
   <CheckMD5 nil="true" />
   <!-- The filesize of your ROM -->
   <!-- Please enter this in BYTES only. Otherwise an incorrect value will be shown -->
-  <FileSize type="integer">599691375</FileSize>
+  <FileSize type="integer">579968340</FileSize>
   <!-- Developer or Team name. You can put anything here, even a couple of names -->
   <!-- OPTIONAL: Enter <Developer nil="true" /> to hide this -->
   <Developer>andr68rus</Developer>
@@ -71,5 +71,13 @@
 * Loud notification fix
 * Security patch 05 Oct
 * Autofocus fix (thanks infrag)
+
+### Changelog 20171006
+* Blobs downgraded from 23S to 19S, its more stable, camera has no "white dots".
+* Slowmotion fix
+* Removed unneeded shim for ims, it cause camera "clicks"
+* VoLTE must work now
+* Autobrightnes tweek
+* Improved battery
   </Changelog>
 </ROM>
